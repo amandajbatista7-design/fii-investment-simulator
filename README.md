@@ -156,16 +156,17 @@ The main dashboard pulls these values based on the user’s scenario selection.
 
 # 📂 Repository Structure
 
-/fii-investment-simulator
+```text
+fii-investment-simulator/
 │
-├── README.md
-├── Investment_ScenarioAnalysis.xlsx
+│── README.md
+│── Investment_ScenarioAnalysis.xlsx
 │
-└── /images
-      ├── main_dashboard.png
-      ├── scenario_analysis.png
-      ├── profile_table.png
-
+│── images/
+      └──  main_dashboard.png
+      └──  scenario_analysis.png
+      └──  profile_table.png
+```
 
 ---
 
